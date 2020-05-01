@@ -1,0 +1,8 @@
+$(".card_image");
+$("#my_footer");
+$("my_footer>p");
+$(":header");
+$("div.first");
+$("div.last");
+$(".href");
+
